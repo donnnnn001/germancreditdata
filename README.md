@@ -102,4 +102,6 @@ This project aims at building a data model based on the applicant’s demographi
 
 The data model used in this case is Logistic Regression. 
 The author will add comments to the code and include other data models such as Random Forest, Decision Tree and run a comparison between these models soon.
+
+
 Due credit is to be given to the author's classmate and friend Neha A for helping him throughout the course of the project and with the presenation as well.
