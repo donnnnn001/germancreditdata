@@ -2,42 +2,64 @@
 The dataset german_credit.csv has been processed according to the below set of purpose codes: 
 
 Purpose codes:
+
     0-car(new)
+    
     1-car(old)
-    2 : furniture/equipment 
-    3 : radio/television 
-    4 : domestic appliances 
-    5 : repairs 
-    6 : education 
-    7 : (vacation - does not exist?) 
-    8 : retraining 
-    9 : business 
+    
+    2 : furniture/equipment
+    
+    3 : radio/television
+    
+    4 : domestic appliances
+    
+    5 : repairs
+    
+    6 : education
+    
+    7 : (vacation - does not exist?)
+    
+    8 : retraining
+    
+    9 : business
+    
     10 : others
+    
 Payment status of previous credit:
     0 : no credits taken/ all credits paid back duly 
     1 : all credits at this bank paid back duly 
     2 : existing credits paid back duly till now 
     3 : delay in paying off in the past 
-    4 : critical account/ other credits existing (not at this bank) 
+    4 : critical account/ other credits existing (not at this bank)
+    
+    
 Sex and marital status:
     1 : male : divorced/separated 
     2 : female : divorced/separated/married 
     3 : male : single 
     4 : male : married/widowed 
-    5 : female : single 
+    5 : female : single
+    
+    
 Guarantors:
     1 : none 
     2 : co-applicant 
-    3 : guarantor 
+    3 : guarantor
+    
+    
 Type of Apartment:
     1: rent
     2: own
     3: for free
+    
+    
 Occupation:
     1 : unemployed/ unskilled - non-resident 
     2 : unskilled - resident 
     3 : skilled employee / official 
-    4 : management/ self-employed/highly qualified employee/ officer 
+    4 : management/ self-employed/highly qualified employee/ officer
+    
+    
 Most valuable available asset:
     1 : real estate 
     2 : if not A121 : building society savings agreement/ life insurance 
