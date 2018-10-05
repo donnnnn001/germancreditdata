@@ -1,5 +1,5 @@
 # germancreditdata
-The dataset german_credit.csv has been processed according to the below set of purpose codes: 
+The dataset german_credit.csv has been pre-processed according to the below set integer codes: 
 
 Purpose codes:
 
@@ -91,7 +91,8 @@ Most valuable available asset:
     4 : unknown / no property
     
     
-    
+Problem Statement:
+
 When a bank receives a loan application, based on the applicant’s profile the bank has to make a decision regarding whether to go ahead with the loan approval or not. Two types of risks are associated with the bank’s decision:
 If the applicant is a good credit risk, i.e. is likely to repay the loan.
 If the applicant is a bad credit risk, i.e. is not likely to repay the loan, then approving the loan to the person results in a financial loss to the bank
